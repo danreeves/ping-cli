@@ -1,4 +1,4 @@
-# **ping**
+# ping
 
 ```
  ; ./ping http://info.cern.ch/hypertext/WWW/TheProject.html
