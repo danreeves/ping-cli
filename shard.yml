@@ -1,0 +1,13 @@
+name: ping
+version: 0.1.0
+
+authors:
+  - Dan Reeves <hey@danreev.es>
+
+targets:
+  ping:
+    main: src/ping.cr
+
+crystal: 0.35.1
+
+license: MIT
