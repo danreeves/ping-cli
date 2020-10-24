@@ -1,5 +1,7 @@
 # ping
 
+## Usage
+
 ```
  ; ./ping http://info.cern.ch/hypertext/WWW/TheProject.html
  > DNS lookup took: 8ms
@@ -20,6 +22,12 @@
  >> Status: 200
  >> Content length: 548 bytes
 ```
+
+## Installation
+
+1. Clone the repo
+2. `crystal build -d:release src/ping.cr`
+3. Put `ping` somewhere on your path
 
 ## Contributing
 
